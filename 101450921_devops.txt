@@ -3,3 +3,4 @@ of its software development and IT programs.
 The course introduces students to DevOps principles, which focus on improving
 the collaboration between development and operations teams to deliver 
 software more efficiently.
+Our Professor for this course is Pritesh patel.
