@@ -1,0 +1,5 @@
+COMP 3104 - DevOps is a course offered by George Brown College as part 
+of its software development and IT programs.
+The course introduces students to DevOps principles, which focus on improving
+the collaboration between development and operations teams to deliver 
+software more efficiently.
