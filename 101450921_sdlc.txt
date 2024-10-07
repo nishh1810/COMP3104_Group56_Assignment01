@@ -1,6 +1,6 @@
 DevOps is essential in the Software Development Lifecycle (SDLC) because
 it fosters collaboration between development and operations teams, leading 
-to smoother workflows. It enables faster delivery through automation, 
+to smoother workflows.It enables faster delivery through automation, 
 reducing manual errors and accelerating deployment. DevOps also improves
 software quality by integrating continuous testing and feedback, 
 ensuring that issues are identified and resolved early. Overall, it enhances 
