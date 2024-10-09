@@ -1,1 +1,1 @@
-Learning DevOps is essential in the software development lifecycle (SDLC) because it bridges the gap between development and operations teams. 
+SYSTEM DEVELOPMENT LIFE CYCLE
