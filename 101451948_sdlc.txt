@@ -7,3 +7,8 @@ DevOps also helps increase the quality of software by catching bugs early throug
 Additionally, using DevOps allows teams to respond quickly to customer needs, leading to higher customer satisfaction. Lastly, DevOps practices make it easier for teams to scale applications and infrastructure as business demands change.
 
 In summary, integrating DevOps into the SDLC enhances efficiency and fosters a culture of continuous improvement.
+
+
+
+
+update

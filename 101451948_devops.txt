@@ -9,3 +9,7 @@ In this course, students will learn about:
 - Monitoring and logging to track application performance.
 
 By the end of the course, students will understand how to apply DevOps practices in software development projects, preparing them for careers in modern software engineering.
+
+
+
+update
