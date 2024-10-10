@@ -2,9 +2,9 @@
 ### COMP3104-Group 56-ASSIGNMENT 01
 ### Group Members
 ### (Leader)NISHITA SACHDEV - 101450921[Github](https://github.com/nishh1810)
-### HARDIK KUMAR - 101410993
+### HARDIK KUMAR - 101410993[Github](https://github.com/HardikKumariscoding/comp3104)
 ### TANVEER CHAUHAN - 101451948 - https://github.com/tanveerchauhan 
-### EESHAN TRIVEDI - 101414811
+### EESHAN TRIVEDI - 101414811[Github](https://github.com/eeshantrivedi)
 
 
 ### Description
@@ -35,4 +35,3 @@ Setup Instructions
  Clone the repository:
    ```bash
    git clone https://github.com/nishh1810/COMP3104_Group56_Assignment01.git
->>>>>>> origin/101451948-TANVEER
