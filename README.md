@@ -1,10 +1,11 @@
 
 ### COMP3104-Group 56-ASSIGNMENT 01
-### Group Memberbs
+### Group Members
 ### (Leader)NISHITA SACHDEV - 101450921[Github](https://github.com/nishh1810)
 ### HARDIK KUMAR - 101410993
-### TANVEER CHAUHAN - 101451948
+### TANVEER CHAUHAN - 101451948 - https://github.com/tanveerchauhan 
 ### EESHAN TRIVEDI - 101414811
+
 
 ### Description
 #This assignment for the COMP3104 DevOps course involves creating a project 
@@ -28,3 +29,10 @@
 # Branching Strategy
 #Each member has their own branch named `STUDENTID-Name`. All changes are 
 #merged into the `main` branch via Pull Requests.
+=======
+
+Setup Instructions
+ Clone the repository:
+   ```bash
+   git clone https://github.com/nishh1810/COMP3104_Group56_Assignment01.git
+>>>>>>> origin/101451948-TANVEER

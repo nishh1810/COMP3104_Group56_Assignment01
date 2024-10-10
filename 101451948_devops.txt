@@ -1,0 +1,322 @@
+The COMP 3104 DevOps course introduces students to the principles and practices of DevOps. DevOps is a set of software development practices aimed at shortening the development life cycle and ensuring continuous delivery with high software quality.
+
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+
+By the end of the course, students will understand how to apply DevOps practices in software development projects, preparing them for careers in modern software engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+In this course, students will learn about:
+
+- Version control systems like Git for managing code.
+- Continuous integration and continuous deployment (CI/CD) to automate integration and deployment processes.
+- Collaboration and communication techniques in DevOps teams.
+- Infrastructure as Code (IaC) for managing infrastructure using code.
+- Monitoring and logging to track application performance.
+
+
+
+
+
+
+
+
+
+
+
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. Established in 1967, it offers a wide range of programs in various fields such as business, health sciences, community services, arts, and technology.
+
+The college is known for its focus on hands-on learning and strong connections with industry partners. GBC provides students with opportunities for internships, co-op placements, and real-world projects, ensuring they gain practical experience alongside their academic studies.
+
+Notable programs include Culinary Management, Graphic Design, Nursing, and Construction Management. With multiple campuses across Toronto, GBC serves over 30,000 full-time students and 70,000 continuing education learners annually.
+
+George Brown College also emphasizes diversity and inclusion, welcoming students from various backgrounds and cultures. The college offers various support services, including academic advising, career services, and counseling, to help students succeed in their educational journey.
+
+update
